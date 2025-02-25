@@ -5,9 +5,9 @@ This is code and a link to the main data used in our analysis of the land cover 
 Download this R code. Then get the data from FigShare below. Unzip the data in the same folder as the code. See further instructions in the .R script.
 
 ## Dataset Download
-The dataset for this analysis is available on Figshare:  
-📂 [Figshare DOI](https://doi.org/10.6084/m9.figshare.28485413)
-This is not a "demo", this is the full dataset.
+The dataset for this analysis is available on Figshare:    
+📂 [Figshare DOI](https://doi.org/10.6084/m9.figshare.28485413)  
+This is not a "demo", this is the full dataset.  
 
 ## System requirements
 You'll need R. I use RStudio on Windows.
